@@ -1,3 +1,6 @@
 {
-    "title": "Stock Locator Product List"
+    "card": {
+        "engine": "Motor",
+        "totalPrice": "UPE"
+    }
 }
