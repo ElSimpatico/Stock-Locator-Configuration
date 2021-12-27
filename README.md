@@ -1,0 +1,1 @@
+# Stock-Locator-Configuration
