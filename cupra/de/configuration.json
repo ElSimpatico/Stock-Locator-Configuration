@@ -1,0 +1,8 @@
+{
+    "vtp": {
+        "baseUrl": "https://vtpapi.seat.com/restapi/v1",
+        "stockType": "cudenwb",
+        "xPattern": "cuprawebfe",
+        "language": "de_DE"
+    }
+}
